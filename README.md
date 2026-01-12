@@ -126,7 +126,5 @@ The project is built in clearly separated stages:
 ---
 
 ## 👤 Author
-Prakhar Srivastava
-Aspiring Data Scientist & Business Analyst | Machine Learning, Deep Learning & Generative AI Enthusiast
-pip install -r requirements.txt
-python app.py
+- Prakhar Srivastava
+- Aspiring Data Scientist & Business Analyst | Machine Learning, Deep Learning & Generative AI Enthusiast

@@ -117,14 +117,6 @@ The project is built in clearly separated stages:
 
 ---  
 
-## 🚀 Future Enhancements
-- Add hybrid recommendation (content + collaborative filtering)
-- Include user ratings and feedback
-- Add advanced filters (genre, year, rating)
-- Deploy on Streamlit Cloud or Hugging Face Spaces
-
----
-
 ## 👤 Author
 - Prakhar Srivastava
 - Aspiring Data Scientist & Business Analyst | Machine Learning, Deep Learning & Generative AI Enthusiast

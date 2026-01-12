@@ -115,11 +115,15 @@ The project is built in clearly separated stages:
 - pip install -r requirements.txt
 - python app.py
 
+---  
+
 ## 🚀 Future Enhancements
 - Add hybrid recommendation (content + collaborative filtering)
 - Include user ratings and feedback
 - Add advanced filters (genre, year, rating)
 - Deploy on Streamlit Cloud or Hugging Face Spaces
+
+---
 
 ## 👤 Author
 Prakhar Srivastava

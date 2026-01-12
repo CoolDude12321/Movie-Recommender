@@ -106,8 +106,7 @@ The project is built in clearly separated stages:
 - **Kaggle** – Dataset source  
 - **VS Code** – Model development  
 - **PyCharm** – Application development  
-- **Python Libraries:**  
-  pandas, numpy, scikit-learn, nltk, pickle, streamlit, requests  
+- **Python Libraries** - pandas, numpy, scikit-learn, nltk, pickle, streamlit, requests  
 
 ---
 
